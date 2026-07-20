@@ -1,7 +1,7 @@
-[![Repo Size](https://img.shields.io/github/repo-size/USMCsky/7DTD_Trap_Buff?style=for-the-badge)](https://github.com/USMCsky/7DTD_Trap_Buff)
-[![Last Commit](https://img.shields.io/github/last-commit/USMCsky/7DTD_Trap_Buff?style=for-the-badge)](https://github.com/USMCsky/7DTD_Trap_Buff/commits)
-[![Language](https://img.shields.io/badge/language-XML-blue?style=for-the-badge)](https://github.com/USMCsky/7DTD_Trap_Buff)
-[![Version](https://img.shields.io/badge/version-3.0-brightgreen?style=for-the-badge)](https://github.com/USMCsky/7DTD_Trap_Buff)
+[![Repo Size](https://img.shields.io/github/repo-size/USMCsky/7DTD_Large_BackPack_96Slot?style=for-the-badge)](https://github.com/USMCsky/7DTD_Large_BackPack_96Slot)
+[![Last Commit](https://img.shields.io/github/last-commit/USMCsky/7DTD_Large_BackPack_96Slot?style=for-the-badge)](https://github.com/USMCsky/7DTD_Large_BackPack_96Slot/commits)
+[![Language](https://img.shields.io/badge/language-XML-blue?style=for-the-badge)](https://github.com/USMCsky/7DTD_Large_BackPack_96Slot)
+[![Version](https://img.shields.io/badge/version-3.0-brightgreen?style=for-the-badge)](https://github.com/USMCsky/7DTD_Large_BackPack_96Slot)
 
 # 7DTD INDESTRUCTIBLE TRAPS
 
