@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+	<!-- bladeTrap uses the unique MmetalBladeTrap material in V3.0, so buff it directly. -->
+	<set xpath="/materials/material[@id='MmetalBladeTrap']/property[@name='MaxDamage']/@value">1000000</set>
+	<set xpath="/materials/material[@id='MmetalBladeTrap']/property[@name='explosionresistance']/@value">1000000</set>
+</configs>

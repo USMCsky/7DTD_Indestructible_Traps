@@ -1,0 +1,7 @@
+[Your Server Folder]
+└── Mods
+    └── IndestructibleTraps
+        ├── ModInfo.xml
+        └── Config
+            ├── blocks.xml
+            └── materials.xml
