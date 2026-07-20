@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/USMCsky/7DTD_Indestructible_Traps)
-![GitHub last commit](https://img.shields.io/github/last-commit/USMCsky/7DTD_Indestructible_Traps)
-![GitHub License](https://img.shields.io/github/license/USMCsky/7DTD_Indestructible_Traps)
-![Author](https://img.shields.io/badge/author-USMCsky-blue)
+![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/USMCsky/7DTD_Indestructible_Traps?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-XML-orange?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-USMCsky-blue?style=for-the-badge)
 
 # 7DTD Indestructible Traps
 
@@ -43,6 +43,3 @@ Mods/
 ## ✅ Compatibility
 - Target game version: **7 Days to Die V3.0**
 - Server-side modlet format (XML patch only)
-
-## 📜 License
-This repository is licensed under the license shown in this repo’s LICENSE metadata badge above.
