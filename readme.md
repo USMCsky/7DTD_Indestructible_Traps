@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/USMCsky/7DTD_Indestructible_Traps)
+![GitHub last commit](https://img.shields.io/github/last-commit/USMCsky/7DTD_Indestructible_Traps)
+![GitHub License](https://img.shields.io/github/license/USMCsky/7DTD_Indestructible_Traps)
+![Author](https://img.shields.io/badge/author-USMCsky-blue)
+
 # 7DTD INDESTRUCTIBLE TRAPS
 
 This project is a server-side mod for **7 Days to Die V3.0** that makes **Electric Fences** and **Blade Traps** effectively indestructible.
